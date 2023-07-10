@@ -1,7 +1,7 @@
 # FlappyGame
 Membuat game sederhana dari pelatihan 'Membuat Game Sederhana 2D" by Coding Studio, Flappy Bird yang sempat viral beberapa tahun yang lalu. 
 
-Untuk link full resource game ada di  **[Link]()**  berikut.
+Untuk link full resource game ada di  **[Link](https://drive.google.com/drive/folders/1yOl9t8IhKBINUlaRnL37CXMd-EmIMeRB?usp=sharing)**  berikut.
 
 Untuk mendownload game ada di  **[Link](https://drive.google.com/file/d/1gS2BEbKR20FnEsYOorvwA1ULLQCoXGrp/view?usp=sharing)**  berikut.
 
